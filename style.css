@@ -35,3 +35,13 @@ button {
     margin: 20px 0;
     text-align: center;
 }
+
+#msg{
+    position: middle;
+    display: none;
+}
+
+#msg2{
+    position: middle;
+    display: none;
+}
